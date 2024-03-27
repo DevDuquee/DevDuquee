@@ -1,4 +1,4 @@
-### Hi, i'm Daniel - 😀
+### Hi, i'm Daniel Duque - 😀
 
 ## Hi, I'm a programming student and practitioner. Python developer!
 
