@@ -1,6 +1,6 @@
 ### Hi, i'm Daniel Duque - 😀
 
-## Hi, I'm a programming student and practitioner. Python developer!
+## I'm a programming student and practitioner. Python developer!
 
 - 🌱  improving and automating with | Python
 
